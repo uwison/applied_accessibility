@@ -18,7 +18,7 @@
         <label for="intermediate">Developing Student</label><br>
         <input id="master" type="radio" name="levels" value="master">
         <label for="master">Master</label>
-      </div>
+      </fieldset>
       <!-- Only change code above this line -->
 
 
